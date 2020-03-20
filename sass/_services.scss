@@ -1,5 +1,5 @@
 .service-one {
-	padding-top: 120px;
+    padding-top: 120px;
     &__single {
         padding-left: 50px;
         padding-right: 50px;
@@ -82,7 +82,7 @@
 
 [class*=col-]:nth-child(1) {
     .service-one__icon {
-    	color: #5DD8D3;
+        color: #5DD8D3;
     }
 
     .service-one__single:hover {
@@ -112,7 +112,7 @@
 
 [class*=col-]:nth-child(2) {
     .service-one__icon {
-    	color: #9364D4;
+        color: #9364D4;
     }
 
     .service-one__single:hover {
@@ -142,7 +142,7 @@
 
 [class*=col-]:nth-child(3) {
     .service-one__icon {
-    	color: #EE539B;
+        color: #EE539B;
     }
 
     .service-one__single:hover {
@@ -172,7 +172,7 @@
 
 [class*=col-]:nth-child(4) {
     .service-one__icon {
-    	color: #FDDD6E;
+        color: #FDDD6E;
     }
 
     .service-one__single:hover {

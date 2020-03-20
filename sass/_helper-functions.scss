@@ -1,8 +1,7 @@
-$thm_font: 'Poppins', sans-serif;
+$thm_font: 'Noto Sans TC', sans-serif;
 $thm_base_color: #4DA1FF;
 $thm_black: #2e3d62;
 $thm_gray: #F3F3F3;
-
 
 @mixin placeholder {
     &::-webkit-input-placeholder {
